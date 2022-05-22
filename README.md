@@ -1,1 +1,1 @@
-Practice for basics
+Practice for basic Js
